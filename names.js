@@ -1,0 +1,9 @@
+let names = [
+    ["Prime Radiant", "Pip-Boy", "Tricorder", "Holoprojector", "Stack", "Vault", "DataCore", "EchoDeck", "Central Nexus", "HoloNet", "Forge", "Scout", "Nomad", "Tinker", "Archive", "Cantina", "R2-D2", "Astrogator", "Memory Cube", "Neural Frame"],
+    ["Nexus", "Pulse", "Beacon", "Vault", "Chronicle", "Singularity", "Radiant", "Spark", "Drift", "Portal", "Echo", "Seed", "Wave", "Node", "Stream", "Shard", "Key", "Flux", "Core", "Bridge"],
+    ["Orbit", "Quasar", "Nebula", "Supernova", "Aurora", "Event Horizon", "Gravity Well", "Stellar Forge", "Blacklight", "Void", "Ecliptic", "Nova", "Solaris", "Luminous", "Photon", "Stasis", "Comet", "Beacon", "Axis", "Continuum"],
+    ["Foundation", "Radiant", "Vault", "Signal", "Probe", "Shard", "Core", "Node", "Streamline", "Pathfinder", "Observer", "Chronos", "Machina", "Fission", "Fusion", "Chamber", "Resonance", "Sphere", "Haven", "Epoch"],
+    ["Architect", "Scribe", "Wanderer", "Messenger", "Tinkerer", "Nomad", "Sentinel", "Harbinger", "Guardian", "Explorer", "Cartographer", "Archivist", "Designer", "Creator", "Guide", "Observer", "Mender", "Catalyst", "Companion", "Navigator"],
+    ["Starleaf", "Thunderspire", "Moonpetal", "Sunstorm", "Shadowroot", "Cosmos Bloom", "Radiant Oak", "Nebula Fern", "Quasar Vine", "Eclipse Blossom", "Luminous Pine", "Aurora Sprout", "Comet Berry", "Meteor Stone", "Solar Petal", "Void Reed", "Starburst", "Celestial Seed", "Ecliptic Stem", "Astral Bloom"],
+    ["Quantum Carrot", "Thunder Leaf", "Pixel Root", "Echo Seed", "Warp Cube", "Stellar Jelly", "Photon Pickle", "Nebula Nugget", "Singularity Salad", "Radiant Potato", "Holo Melon", "Quasar Pear", "Cosmic Bean", "Astro Apricot", "Event Horizon Ice Cream", "Lunar Loaf", "Starfruit", "Galaxy Gourd", "Comet Candy", "Eclipse Egg"]
+]
